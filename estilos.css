@@ -1,0 +1,28 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+.fondo {
+  background-color: #6d432a ;
+}
+
+.fondo1 {
+  background-color: #402218 ;
+}
+
+.fondo2 {
+  background-color: #be8b73;
+}
+
+#logo {
+  width:80px ;
+  height: 80px ;
+  background: url(imagenes/reunionsolo.png) no-repeat center center;
+  background-size: contain;
+  background-position: center;
+  font-size: 0;
+  position: absolute;
+  left: 15px;
+  z-index: 5;
+}
